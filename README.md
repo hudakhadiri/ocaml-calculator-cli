@@ -34,7 +34,7 @@ This dune file tells Dune that:
 
     + We are building an executable called simple_calculator.
     + The source code for this executable is split into two modules: simple_calculator.ml and calculator.ml.
-    + When Dune compiles the code, it will first compile the calculator.ml module and then compile simple_calculator.ml, linking them together into one         final executable.
+    + When Dune compiles the code, it will first compile the calculator.ml module and then compile simple_calculator.ml, linking them together into one final executable.
 
 
 
